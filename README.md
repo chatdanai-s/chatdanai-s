@@ -20,7 +20,7 @@ Bangkok, Thailand | Data Science + ML + Astrophysics
 - [NATSUME](https://github.com/chatdanai-s/NATSUME) - **N**ear-resonant **A**nalytic **T**TV **S**olver for **U**nknown **M**ass **E**stimates; analytic exoplanet mass calculations.
 - [Caries Segmentation Evaluations](https://github.com/chatdanai-s/Caries-Segmentation-Model-Evaluations) - Lesion-level U-Net evaluations with Precision/Recall/F1 metrics.
 - [Coffee Sales Dashboard](https://github.com/chatdanai-s/Coffee-Sales-Dashboard) - Streamlit BI tool. Customer segmentation and actionable insights.
-- [Blood Cell Type Classification](https://github.com/chatdanai/blood-cell-classification) - CNN-based classifier. 94.53% accuracy on EfficientNetB4 (17,092 image dataset).
+- [Blood Cell Type Classification](github.com/chatdanai-s/Blood-Cell-Type-Classification) - CNN-based classifier. 94.53% accuracy on EfficientNetB4 (17,092 image dataset).
 - [Traffic Volume Prediction](https://github.com/chatdanai-s/ERA5-Traffic-Volume-Prediction) - Regressive model across 48,176 observations. Test R² = 0.952. Incorporated ERA5 atmospheric data.
 
 ## Connect
