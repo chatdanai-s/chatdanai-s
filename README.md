@@ -22,6 +22,7 @@ Bangkok, Thailand | Data Science + ML + Astrophysics
 - [Coffee Sales Dashboard](https://github.com/chatdanai-s/Coffee-Sales-Dashboard) - Streamlit BI tool. Customer segmentation and actionable insights.
 - [Blood Cell Type Classification](https://github.com/chatdanai-s/Blood-Cell-Type-Classification) - CNN-based classifier. 94.53% accuracy on EfficientNetB4 (17,092 image dataset).
 - [Traffic Volume Prediction](https://github.com/chatdanai-s/ERA5-Traffic-Volume-Prediction) - Regressive model across 48,176 observations. Test R² = 0.952. Incorporated ERA5 atmospheric data.
+- [PDF-RAG Chatbot](https://github.com/chatdanai-s/PDF-RAG-Chatbot/) - Local RAG chatbot for PDF question answering using LangChain, ChromaDB, and a 3.8B-parameter LLM.
 
 ## Connect
 
