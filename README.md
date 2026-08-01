@@ -7,7 +7,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Astropy](https://img.shields.io/badge/-Astropy-3399DD?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -21,6 +20,7 @@
 - [Blood Cell Type Classification](https://github.com/chatdanai-s/Blood-Cell-Type-Classification) - CNN-based image classifier. 94.53% accuracy on EfficientNetB4 (17,092 image dataset).
 - [Traffic Volume Prediction](https://github.com/chatdanai-s/ERA5-Traffic-Volume-Prediction) - Regressive time series model across 48,176 observations. R² = 0.952. Incorporated ERA5 weather data.
 - [PDF-RAG Chatbot](https://github.com/chatdanai-s/PDF-RAG-Chatbot/) - Local RAG chatbot for PDF question answering using LangChain, ChromaDB, and a 3.8B-parameter LLM.
+- [NewsAPI ETL](https://github.com/chatdanai-s/NewsAPI-Supply-Chain-ETL) - ETL Pipeline for NewsAPI Supply Chain Disruption-related Headlines to PostgreSQL database.
 
 ## Connect
 
