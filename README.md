@@ -24,7 +24,7 @@
 ## Projects
 
 ### Machine Learning and AI
-- [BOT Monetary Policy Report Assistant](https://github.com/chatdanai-s/PDF-RAG-Chatbot/): Local RAG assistant for answering questions about Bank of Thailand Monetary Policy Reports.
+- [BOT Monetary Policy Report Assistant](https://github.com/chatdanai-s/BOT-Monetary-Policy-Assistant): Local RAG assistant for answering questions about Bank of Thailand Monetary Policy Reports.
 - [Blood Cell Type Classification](https://github.com/chatdanai-s/Blood-Cell-Type-Classification): CNN image classifier. 94.53% accuracy with EfficientNetB4 on 17,092 images.
 - [Traffic Volume Prediction](https://github.com/chatdanai-s/ERA5-Traffic-Volume-Prediction): Time series regression on 48,176 observations with ERA5 weather data. R² = 0.952.
 - [Caries Segmentation Evaluations](https://github.com/chatdanai-s/Caries-Segmentation-Model-Evaluations): Lesion-level U-Net evaluation using Precision/Recall/and F1 metrics.
